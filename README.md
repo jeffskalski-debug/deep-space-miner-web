@@ -2,7 +2,7 @@
 
 Play in the browser: https://jeffskalski-debug.github.io/deep-space-miner-web/
 
-v0.27.0 (build 67)
+v0.28.0 (build 68)
 
 This repository is the exported web build only (Godot 4, GL Compatibility, threads off).
 The game source is the Deep Space Miner project. A first tap on the title unlocks audio.
